@@ -14,6 +14,10 @@
 
     * that is, object_scale = init_scale * (hit.distance / Vector3.Distance(init_position - camera_init_position))
 
-Reference:
+## Demo GIF
+
+![](https://raw.githubusercontent.com/yanagiragi/Forced-Perspective/master/demo.gif)
+
+## Reference:
 
 * Most of the codes are from [danielcmcg/Forced-Perspective-Illusion-Mechanic-for-Unity](https://github.com/danielcmcg/Forced-Perspective-Illusion-Mechanic-for-Unity)
